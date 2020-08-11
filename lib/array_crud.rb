@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  pets = ["Pebbles", "Ellie", "Marvel", "Teemo"]
+  array = ["I", "am", "really", "learning"]
 
-  pets << "BamBam"
+  array << "wow"
 
   p pets
 end
