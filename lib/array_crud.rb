@@ -4,7 +4,6 @@ end
 
 def create_an_array
   pets = ["Pebbles", "Ellie", "Marvel", "Teemo"]
-
 end
 
 def add_element_to_end_of_array(array, element)
