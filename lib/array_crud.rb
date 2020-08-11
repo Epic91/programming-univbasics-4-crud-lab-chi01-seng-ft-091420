@@ -7,6 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  pets = ["Pebbles", "Ellie", "Marvel", "Teemo"]
+
+  pets << "BamBam"
+
+  p pets
 
 end
 
